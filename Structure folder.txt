@@ -1,0 +1,25 @@
+plain text 
+
+Resume_Job_Agent/
+|
+|--- main.py
+Start/run the application
+|
+|---requrements.txt
+Libraries
+|---README.md
+Project explanation
+|--- .env
+keys
+|--- .gitignore
+|
+|___ agents/
+     |
+     |--- resume_agent.py
+Uplode resume -> extract & analyze
+     |  
+     |---job_matching_agent.py 
+Compare resume with job description
+     |
+     |___career_agent.py
+suggestion & improvments 
